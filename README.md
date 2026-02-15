@@ -2,7 +2,7 @@
 
 A security-conscious password generator built with vanilla HTML, CSS, and JavaScript. 
 
-Live Demo: (Add GitHub Pages link here)
+Live Demo: https://danmalygin.github.io/password-generator/
 
 ---
 
